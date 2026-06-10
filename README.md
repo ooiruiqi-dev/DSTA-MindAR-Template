@@ -1,6 +1,6 @@
 # DSTA-MindAR-Demo
 Simple Test for MindAR
-# [This is the Project Title] 
+# sentinel 2026
 
 A brief description of what this project does and who it's for.  
 
@@ -10,15 +10,16 @@ A brief description of what this project does and who it's for.
 
  
 
-## 🚀 About Me 
+## 🚀 About Me
 
-A sec2 student
-play pubg
+Sec 2 student 
+Play PUBG
+
 
  
 
 ## 🛠 Skills 
-
+Badminton
 
 
  
